@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/SEMINAR5/Задача38/bin/Debug/net6.0/Задача38
+/Users/MacBook/Desktop/SEMINAR5/Задача38/bin/Debug/net6.0/Задача38.deps.json
+/Users/MacBook/Desktop/SEMINAR5/Задача38/bin/Debug/net6.0/Задача38.runtimeconfig.json
+/Users/MacBook/Desktop/SEMINAR5/Задача38/bin/Debug/net6.0/Задача38.dll
+/Users/MacBook/Desktop/SEMINAR5/Задача38/bin/Debug/net6.0/Задача38.pdb
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.AssemblyInfo.cs
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.dll
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/refint/Задача38.dll
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.pdb
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/Задача38.genruntimeconfig.cache
+/Users/MacBook/Desktop/SEMINAR5/Задача38/obj/Debug/net6.0/ref/Задача38.dll
